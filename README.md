@@ -1,6 +1,6 @@
 ### Hello ! 👋
 
-I'm Pierre, a software engineer and game developper, **currently looking for a job in the gaming industry** !
+I'm Pierre, a software engineer and spare time game developper !
 
 Learn more about me on my [github pages website](https://psouquet.github.io).  
 
